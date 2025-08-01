@@ -3,7 +3,7 @@
 # Run `pod lib lint webview_window.podspec` to validate before publishing.
 #
 Pod::Spec.new do |s|
-  s.name             = 'webview_universal'
+  s.name             = 'webview_universal_plus'
   s.version          = '0.0.1'
   s.summary          = 'A new flutter plugin project.'
   s.description      = <<-DESC
